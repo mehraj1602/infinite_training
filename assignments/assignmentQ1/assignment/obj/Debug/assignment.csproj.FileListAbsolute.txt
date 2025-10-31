@@ -1,0 +1,8 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment\assignment\obj\Debug\assignment.exe.config

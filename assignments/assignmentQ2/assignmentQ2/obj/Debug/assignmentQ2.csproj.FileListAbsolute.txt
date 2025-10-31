@@ -1,0 +1,7 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\bin\Debug\assignmentQ2.exe.config
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\bin\Debug\assignmentQ2.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\bin\Debug\assignmentQ2.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\obj\Debug\assignmentQ2.csproj.AssemblyReference.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\obj\Debug\assignmentQ2.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\obj\Debug\assignmentQ2.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignmentQ2\assignmentQ2\obj\Debug\assignmentQ2.pdb
