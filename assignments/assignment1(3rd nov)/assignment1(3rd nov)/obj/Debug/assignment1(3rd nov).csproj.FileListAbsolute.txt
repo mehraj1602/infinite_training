@@ -1,0 +1,8 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\bin\Debug\assignment1(3rd nov).exe.config
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\bin\Debug\assignment1(3rd nov).exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\bin\Debug\assignment1(3rd nov).pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\obj\Debug\assignment1(3rd nov).csproj.AssemblyReference.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\obj\Debug\assignment1(3rd nov).csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\obj\Debug\assignment1(3rd nov).exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\obj\Debug\assignment1(3rd nov).pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\assignment1(3rd nov)\assignment1(3rd nov)\obj\Debug\assignment1(3rd nov).exe.config

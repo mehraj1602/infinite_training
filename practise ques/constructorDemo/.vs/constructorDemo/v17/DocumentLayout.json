@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\vs prog\\constructorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71190B-A130-4AD2-99B7-8EE0F1920793}|constructorDemo\\constructorDemo.csproj|c:\\users\\mehrajf\\onedrive - infinite computer solutions (india) limited\\desktop\\vs prog\\constructordemo\\constructordemo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71190B-A130-4AD2-99B7-8EE0F1920793}|constructorDemo\\constructorDemo.csproj|solutionrelative:constructordemo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71190B-A130-4AD2-99B7-8EE0F1920793}|constructorDemo\\constructorDemo.csproj|c:\\users\\mehrajf\\onedrive - infinite computer solutions (india) limited\\desktop\\vs prog\\constructordemo\\constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71190B-A130-4AD2-99B7-8EE0F1920793}|constructorDemo\\constructorDemo.csproj|solutionrelative:constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\vs prog\\constructorDemo\\constructorDemo\\Department.cs",
+              "RelativeDocumentMoniker": "constructorDemo\\Department.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\vs prog\\constructorDemo\\constructorDemo\\Department.cs",
+              "RelativeToolTip": "constructorDemo\\Department.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:21:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\vs prog\\constructorDemo\\constructorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "constructorDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\vs prog\\constructorDemo\\constructorDemo\\Program.cs",
+              "RelativeToolTip": "constructorDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:20:48.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

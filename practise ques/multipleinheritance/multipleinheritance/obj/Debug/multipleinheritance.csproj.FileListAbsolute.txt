@@ -1,0 +1,7 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\bin\Debug\multipleinheritance.exe.config
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\bin\Debug\multipleinheritance.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\bin\Debug\multipleinheritance.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\obj\Debug\multipleinheritance.csproj.AssemblyReference.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\obj\Debug\multipleinheritance.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\obj\Debug\multipleinheritance.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\multipleinheritance\multipleinheritance\obj\Debug\multipleinheritance.pdb

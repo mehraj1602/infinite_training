@@ -1,0 +1,8 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe.config
