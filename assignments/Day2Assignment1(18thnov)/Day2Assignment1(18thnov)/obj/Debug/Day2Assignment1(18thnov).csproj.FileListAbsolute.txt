@@ -1,0 +1,8 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\bin\Debug\Day2Assignment1(18thnov).exe.config
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\bin\Debug\Day2Assignment1(18thnov).exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\bin\Debug\Day2Assignment1(18thnov).pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\obj\Debug\Day2Assignment1(18thnov).csproj.AssemblyReference.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\obj\Debug\Day2Assignment1(18thnov).csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\obj\Debug\Day2Assignment1(18thnov).exe
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\obj\Debug\Day2Assignment1(18thnov).pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Day2Assignment1(18thnov)\Day2Assignment1(18thnov)\obj\Debug\Day2Assignment1(18thnov).exe.config
