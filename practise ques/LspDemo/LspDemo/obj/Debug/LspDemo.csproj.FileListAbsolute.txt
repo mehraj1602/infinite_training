@@ -1,0 +1,7 @@
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\bin\Debug\LspDemo.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\bin\Debug\LspDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\bin\Debug\LspDemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\obj\Debug\LspDemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\obj\Debug\LspDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\obj\Debug\LspDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\LspDemo\LspDemo\obj\Debug\LspDemo.pdb

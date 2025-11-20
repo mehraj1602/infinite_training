@@ -1,0 +1,9 @@
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\bin\Debug\Remotinglib.dll
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\bin\Debug\Remotinglib.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\bin\Debug\RemotingTrn.dll
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\bin\Debug\RemotingTrn.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\obj\Debug\Remotinglib.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\obj\Debug\Remotinglib.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\obj\Debug\Remoting.F9DEA349.Up2Date
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\obj\Debug\Remotinglib.dll
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\Remotinglib\obj\Debug\Remotinglib.pdb

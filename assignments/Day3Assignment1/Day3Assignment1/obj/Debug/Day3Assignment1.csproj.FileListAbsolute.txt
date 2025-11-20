@@ -1,0 +1,6 @@
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\Day3Assignment1\bin\Debug\Day3Assignment1.dll
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\Day3Assignment1\bin\Debug\Day3Assignment1.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\Day3Assignment1\obj\Debug\Day3Assignment1.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\Day3Assignment1\obj\Debug\Day3Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\Day3Assignment1\obj\Debug\Day3Assignment1.dll
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\Day3Assignment1\obj\Debug\Day3Assignment1.pdb

@@ -1,0 +1,13 @@
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\Remotinglib.dll
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\RemotingTrn.dll
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\Remotinglib.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\bin\Debug\RemotingTrn.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\obj\Debug\ServerApp.csproj.Up2Date
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\ServerApp\obj\Debug\ServerApp.exe.config

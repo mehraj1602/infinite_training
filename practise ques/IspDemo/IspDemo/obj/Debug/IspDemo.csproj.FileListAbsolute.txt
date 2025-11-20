@@ -1,0 +1,8 @@
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\bin\Debug\IspDemo.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\bin\Debug\IspDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\bin\Debug\IspDemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\obj\Debug\IspDemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\obj\Debug\IspDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\obj\Debug\IspDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\obj\Debug\IspDemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\IspDemo\IspDemo\obj\Debug\IspDemo.exe.config

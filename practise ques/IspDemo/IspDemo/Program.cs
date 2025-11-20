@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IspDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+       
+            {
+
+                NormalWorker worker = new NormalWorker();
+
+                worker.Work();
+
+                worker.Eat();
+
+                Manager manager = new Manager();
+
+                manager.Work();
+
+                manager.Eat();
+
+                manager.ManageTeam();
+
+            }
+
+        }
+
+
+    
+}
+

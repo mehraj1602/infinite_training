@@ -1,0 +1,7 @@
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.pdb

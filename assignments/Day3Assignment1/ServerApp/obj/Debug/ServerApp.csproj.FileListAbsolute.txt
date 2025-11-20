@@ -1,0 +1,13 @@
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\RemotingLib.dll
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\Day3Assignment1.dll
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\RemotingLib.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\bin\Debug\Day3Assignment1.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\obj\Debug\ServerApp.csproj.Up2Date
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Day3Assignment1\ServerApp\obj\Debug\ServerApp.exe.config

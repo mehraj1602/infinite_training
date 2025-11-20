@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LspDemo
+{
+   public  class PermanentEmployee : EmployeeBase
+    {
+        public override decimal GetBonus(decimal salary)
+        {
+            return salary * 0.20m;
+        }
+    }
+}

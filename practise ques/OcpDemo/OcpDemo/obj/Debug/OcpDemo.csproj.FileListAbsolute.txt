@@ -1,0 +1,7 @@
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\bin\Debug\OcpDemo.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\bin\Debug\OcpDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\bin\Debug\OcpDemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\obj\Debug\OcpDemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\obj\Debug\OcpDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\obj\Debug\OcpDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\OcpDemo\OcpDemo\obj\Debug\OcpDemo.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5432FCF6-7A4D-464C-AD2A-F51D04088BD7}|ClientApp\\ClientApp.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5432FCF6-7A4D-464C-AD2A-F51D04088BD7}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D86CA84-A1B3-4669-8CB2-4825CC278AA5}|ServerApp\\ServerApp.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D86CA84-A1B3-4669-8CB2-4825CC278AA5}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0306AE0-68F1-4E20-9AEC-70FCCA597182}|RemotingLib\\RemotingLib.csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\day3assignment1\\remotinglib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0306AE0-68F1-4E20-9AEC-70FCCA597182}|RemotingLib\\RemotingLib.csproj|solutionrelative:remotinglib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADADE65-A885-4E70-9757-560D5BF10EAE}|Day3Assignment1\\Day3Assignment1.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\day3assignment1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADADE65-A885-4E70-9757-560D5BF10EAE}|Day3Assignment1\\Day3Assignment1.csproj|solutionrelative:day3assignment1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:46:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:46:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\RemotingLib\\Class1.cs",
+              "RelativeDocumentMoniker": "RemotingLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\RemotingLib\\Class1.cs",
+              "RelativeToolTip": "RemotingLib\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:46:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\Day3Assignment1\\Class1.cs",
+              "RelativeDocumentMoniker": "Day3Assignment1\\Class1.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Day3Assignment1\\Day3Assignment1\\Class1.cs",
+              "RelativeToolTip": "Day3Assignment1\\Class1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:44:46.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
