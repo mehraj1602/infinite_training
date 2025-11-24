@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\designpatterndemo\\designpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|solutionrelative:designpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\designpatterndemo\\designpatterndemo\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|solutionrelative:designpatterndemo\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\designpatterndemo\\designpatterndemo\\adapterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|solutionrelative:designpatterndemo\\adapterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\designpatterndemo\\designpatterndemo\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|solutionrelative:designpatterndemo\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\designpatterndemo\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32E2EF-2499-42F2-9538-5CB55B01915C}|DesignPatternDemo\\DesignPatternDemo.csproj|solutionrelative:designpatterndemo\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdapterPattern.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\AdapterPattern.cs",
+              "RelativeDocumentMoniker": "DesignPatternDemo\\AdapterPattern.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\AdapterPattern.cs",
+              "RelativeToolTip": "DesignPatternDemo\\AdapterPattern.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:21:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrototypePattern.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\PrototypePattern.cs",
+              "RelativeDocumentMoniker": "DesignPatternDemo\\PrototypePattern.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\PrototypePattern.cs",
+              "RelativeToolTip": "DesignPatternDemo\\PrototypePattern.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:13:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "DesignPatternDemo\\FactoryPattern.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\FactoryPattern.cs",
+              "RelativeToolTip": "DesignPatternDemo\\FactoryPattern.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:54:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\Singleton.cs",
+              "RelativeDocumentMoniker": "DesignPatternDemo\\Singleton.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\Singleton.cs",
+              "RelativeToolTip": "DesignPatternDemo\\Singleton.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:51:56.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatternDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\DesignPatternDemo\\DesignPatternDemo\\Program.cs",
+              "RelativeToolTip": "DesignPatternDemo\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:51:19.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

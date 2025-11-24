@@ -1,0 +1,42 @@
+Exercise 1: Notification Factory
+Scenario:
+Your system sends different types of notifications: Email, SMS, Push.
+Depending on user input, create the right notification class.
+Tasks for Students:
+•	Create an INotification interface.
+•	Implement EmailNotification, SmsNotification, PushNotification.
+•	Create a NotificationFactory.GetNotification(string type) method.
+•	Test by asking user input and sending the notification.
+Hint:
+Use Simple Factory.
+==================================================
+Scenario:
+An application must write logs to a file. There must be only one logger instance.
+Tasks:
+•	Create Logger class with private constructor.
+•	Add static Instance property.
+•	Add WriteLog(string message) method.
+==============================================================================
+
+Game Character Prototype
+Scenario:
+You create game characters with many attributes. Creating from scratch is slow.
+Tasks:
+•	Create GameCharacter with fields like:
+o	Health, Attack, Defense, Skills(List)
+•	Implement cloning.
+•	Create a base "Warrior" prototype and clone it to create multiple units.
+
+============================================================================
+
+1: Data Export Template
+Scenario:
+All exports follow a similar process:
+1.	Connect to data source
+2.	Fetch data
+3.	Format data
+4.	Save to file
+Formats: CSV, JSON, XML
+Tasks:
+•	Create abstract class DataExporter with Export() template method.
+•	Implement CsvExporter, JsonExporter, XmlExporter.

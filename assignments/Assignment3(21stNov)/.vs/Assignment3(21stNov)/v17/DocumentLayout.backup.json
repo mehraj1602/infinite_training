@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment3(21stNov)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0668FD-70BB-4D28-82D5-038491EC640B}|Assignment3(21stNov)\\Assignment3(21stNov).csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment3(21stnov)\\assignment3(21stnov)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0668FD-70BB-4D28-82D5-038491EC640B}|Assignment3(21stNov)\\Assignment3(21stNov).csproj|solutionrelative:assignment3(21stnov)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0668FD-70BB-4D28-82D5-038491EC640B}|Assignment3(21stNov)\\Assignment3(21stNov).csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment3(21stnov)\\assignment3(21stnov)\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0668FD-70BB-4D28-82D5-038491EC640B}|Assignment3(21stNov)\\Assignment3(21stNov).csproj|solutionrelative:assignment3(21stnov)\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment3(21stNov)\\Assignment3(21stNov)\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "Assignment3(21stNov)\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment3(21stNov)\\Assignment3(21stNov)\\GameCharacter.cs",
+              "RelativeToolTip": "Assignment3(21stNov)\\GameCharacter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:38:34.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment3(21stNov)\\Assignment3(21stNov)\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3(21stNov)\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment3(21stNov)\\Assignment3(21stNov)\\Program.cs",
+              "RelativeToolTip": "Assignment3(21stNov)\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:34:19.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

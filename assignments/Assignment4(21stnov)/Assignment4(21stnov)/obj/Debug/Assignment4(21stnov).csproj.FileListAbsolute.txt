@@ -1,0 +1,7 @@
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\bin\Debug\Assignment4(21stnov).exe.config
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\bin\Debug\Assignment4(21stnov).exe
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\bin\Debug\Assignment4(21stnov).pdb
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\obj\Debug\Assignment4(21stnov).csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\obj\Debug\Assignment4(21stnov).csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\obj\Debug\Assignment4(21stnov).exe
+C:\Users\mehrajf\Infinite_training\assignments\Assignment4(21stnov)\Assignment4(21stnov)\obj\Debug\Assignment4(21stnov).pdb
