@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment1(25thnov)\\assignment1(25thnov)\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|solutionrelative:assignment1(25thnov)\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment1(25thnov)\\assignment1(25thnov)\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|solutionrelative:assignment1(25thnov)\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment1(25thnov)\\assignment1(25thnov)\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|solutionrelative:assignment1(25thnov)\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment1(25thnov)\\assignment1(25thnov)\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBD6B6A-DB8F-434F-B0F2-DCEF5049550D}|Assignment1(25thNov)\\Assignment1(25thNov).csproj|solutionrelative:assignment1(25thnov)\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\Customer.cs",
+              "RelativeDocumentMoniker": "Assignment1(25thNov)\\Customer.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\Customer.cs",
+              "RelativeToolTip": "Assignment1(25thNov)\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:57:02.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Assignment1(25thNov)\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\CustomerService.cs",
+              "RelativeToolTip": "Assignment1(25thNov)\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:52:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\ICalculator.cs",
+              "RelativeDocumentMoniker": "Assignment1(25thNov)\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\ICalculator.cs",
+              "RelativeToolTip": "Assignment1(25thNov)\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:42:55.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Assignment1(25thNov)\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment1(25thNov)\\Assignment1(25thNov)\\UnitTest1.cs",
+              "RelativeToolTip": "Assignment1(25thNov)\\UnitTest1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:40:56.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

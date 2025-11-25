@@ -1,0 +1,11 @@
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\bin\Debug\net9.0\CodingTest3.deps.json
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\bin\Debug\net9.0\CodingTest3.dll
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\bin\Debug\net9.0\CodingTest3.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\CodingTest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\CodingTest3.AssemblyInfoInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\CodingTest3.AssemblyInfo.cs
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\CodingTest3.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\CodingTest3.dll
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\refint\CodingTest3.dll
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\CodingTest3.pdb
+C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest3\CodingTest3\obj\Debug\net9.0\ref\CodingTest3.dll
