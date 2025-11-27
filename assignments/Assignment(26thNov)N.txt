@@ -1,0 +1,105 @@
+SQL Server Queries Assignments 
+
+1. Display the list of customers who resides in Bangalore
+query: select * from customers where caddress = 'banglore'
+
+2. Display the list of customers who does not resides in Bangalore or 
+Chennai
+query: select *from customers where caddress not in ('banglore','chennai')
+
+3. Display the list of customers who’s age is greater then 50 and does not 
+resides in Bangalore
+query: select * from customers where age > 50 and caddress != 'banglore'
+
+4.Display the list of customers who’s name starts with A 
+query: select * from customers where custname like 'A%'
+
+5. Display the list of customers who’s name contains a word Br 
+query:5. Display the list of customers who’s name contains a word Br 
+
+6. Display the list of customer who’s name start between a to k  
+query:select * from customers where custname like '[a-k]%'
+
+7. Display the list of customers who’s name is 5 character long
+query:select * from customers where custname like '_____'
+
+8. Display the list of customer who’s name  
+a. Start with s 
+ query:select * from customers where custname like 's%'
+b. Third character is c 
+query:select * from customers where custname like '__c%
+c. Ends with e 
+query:select * from customers where custname like '%e'
+
+9. Display unique customer names from customers table
+query:select distinct custname from customers
+
+10. List orders details where qty falling in the range 100-200  and 700-1200
+query:select * from orders where quantity between 100 and 200 or quantity between 700 and 1200
+
+11.  List customer details where custname beginning with AL and ending 
+with N 
+query:select * from customers where custname like 'al%n'
+
+12. Display what each  price would be if a 20% price increase were to take 
+place. Show the custid , old price and new price ,using meaningful 
+headings(use orders table)  
+query: select custid, price AS OldPrice, price + (price * 0.20) AS NewPrice from orders
+
+13. Display top 3 highest qty from orders table 
+query:select Top 3* from orders order by quantity DESC
+
+14. Display how many times customers have purchased a product (display 
+count and customerid from orders table)
+query:select custid, count(*) AS TotalPurchases from orders group by custid
+
+15. Display the list of orders who’s orders made earlier then 5 years from 
+now
+query:select * from orders where orderdate <DATEADD(YEAR, -5, GETDATE())
+
+16.  Select * from customers where custname is null 
+query:select * from customers where custname IS NULL
+
+17.  Display orderdetails in following format 
+OrderID-Date Total(price*qty) 
+100-1/1/2000 500 
+query: select CONCAT(orderid, '-', orderdate) AS [orderID-Date],(price * quantity) AS Total from orders
+
+18.  Update orders table by decreasing price by 20% for qty > 50
+query:update orders set price = price - (price * 0.20) where quantity > 50
+
+19. You want to retrieve data for all the orders who made order  '1-12-90' 
+having price 4000 – 6000 and sort the column in descending order on 
+price
+query: select * from orders where orderdate = '1990-12-01' order by price DESC
+
+20. Display order details in following format 
+Custid Price (sum of price) Count (count of qty) 
+1 5000 3 
+2 4000 9 
+3 6700 6
+query: select custid, SUM(price) AS TotalPrice, Count(quantity) AS quantityCount from orders group by custid
+
+21. Display above details only for price > 4000
+ query:select custid, sum(price) AS TotalPrice,count(quantity) AS quantitycount from orders group by custid having sum(price)> 4000
+
+
+22. Write a query to create duplicate table of customer , and name it as 
+custhistory 
+a. Delete all the records of custhistory 
+b. Copy records of customers to custhistory where age > 30
+query:select * into custhistory from customers where age > 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
