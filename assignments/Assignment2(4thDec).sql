@@ -1,0 +1,233 @@
+
+--------------------TRANSATIONS-------------------------------
+
+--1. Basic Transaction — Commit / Rollback 
+--Create a table BankAccount with sample records. 
+--Write a transaction that transfers money from one account to another. 
+--If the source account balance becomes negative, roll back the transaction; otherwise 
+--commit. 
+create table bankaccount (
+    accid int primary key,
+    accname varchar(50),
+    balance decimal(10,2)
+);
+
+insert into bankaccount values
+(1, 'syeda', 5000),
+(2, 'mehraj', 2000);
+
+declare @sourceacc int = 1;
+declare @targetacc int = 2;
+declare @amount decimal(10,2) = 3000;
+begin transaction;
+update bankaccount
+set balance = balance - @amount
+where accid = @sourceacc;
+if (select balance from bankaccount where accid = @sourceacc) < 0
+begin
+rollback transaction;
+print 'transaction rolled back — negative balance!';
+end
+else
+begin
+update bankaccount
+set balance = balance + @amount
+where accid = @targetacc;
+commit transaction;
+print 'transaction committed successfully!';
+end
+select * from bankaccount
+
+
+--2. Using SAVEPOINT 
+--Insert three new records into a table Orders. 
+--Create a SAVEPOINT after each insert. 
+--Rollback only the second insert using the SAVEPOINT, then commit the remaining inserts.
+
+begin transaction
+insert into orders (custid, orderid, orderdate, product, price, quantity)
+values (104,601, getdate(), 'sample 1', 100, 1);
+save transaction s1;
+insert into orders (custid, orderid, orderdate, product, price, quantity)
+values (105,602, getdate(), 'sample 2', 200, 2);
+save transaction s2;
+insert into orders (custid, orderid, orderdate, product, price, quantity)
+values (107,603, getdate(), 'sample 3', 300, 3);
+save transaction s3;
+rollback transaction s2;
+commit transaction;
+
+select * from orders
+
+--3. Handling Errors with TRY…CATCH 
+--Write a transaction that updates prices in a Products table. 
+--Introduce a division-by-zero error inside the transaction. 
+--Use TRY…CATCH to rollback the transaction and log the error message in a separate 
+--ErrorLog table 
+
+begin try
+begin transaction;
+update products
+set price = price * 1.10;
+declare @a int = 10 / 0;
+commit transaction;
+end try
+begin catch
+rollback transaction;
+insert into errorlogs (errormessage)
+values (error_message());
+print 'error occurred. transaction rolled back and error logged.';
+end catch;
+
+select * from ErrorLogs
+
+--4. Nested Transactions 
+--Create nested transactions: 
+--• Outer transaction inserts a customer 
+--• Inner transaction inserts an order for the customer 
+--• Force an error in the inner transaction 
+--Practice observing whether the outer transaction is committed or rolled back.
+
+begin transaction;
+insert into customers (custid,custname, age, caddress, cphone)
+values (200,'jazz', 25, 'mumbai', '9876543210');
+declare @cid int = scope_identity();
+begin try
+save transaction inner_tran;
+insert into orders (custid, orderdate, product, price, quantity)
+values (@cid, getdate(), 'shoes', 1200, 1);
+select 1 / 0;
+commit transaction;
+end try
+begin catch
+rollback transaction inner_tran;
+commit transaction;
+print 'inner transaction rolled back, outer transaction committed.';
+end catch;
+
+select * from customers
+select * from orders
+
+--5.Isolation Level – Dirty Read 
+--Use two sessions: 
+--• Session 1: Open a transaction, update a row, but don’t commit 
+--• Session 2: Use SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED and read 
+--the same row 
+--Check whether dirty reads are allowed.
+
+set transaction isolation level read uncommitted;
+select * from customers
+where custid = 102;
+waitfor delay '00:00:10'
+
+
+--6. Isolation Level – Non-repeatable Read 
+--Using two sessions: 
+--• Session 1 reads a row twice inside a transaction 
+--• Session 2 updates and commits the same row in between 
+--Observe changes and understand non-repeatable reads. 
+
+set transaction isolation level read committed;
+begin transaction;
+select * from customers where custid = 102;  
+waitfor delay '00:00:10'
+select * from customers where custid = 102;
+
+--7. Isolation Level – Phantom Read 
+--Create a table Sales. 
+--Using two sessions: 
+--• Session 1 selects rows between a range inside a transaction 
+--• Session 2 inserts a new row within the range and commits 
+--See if the first session sees new rows depending on isolation level.
+
+set transaction isolation level read committed;
+
+begin transaction;
+select saleid, empid, region, SaleAmount, saledate
+from sales
+where SaleAmount between 90000 and 110000;
+waitfor delay '00:00:10';
+select saleid, empid, region, SaleAmount, saledate
+from sales
+where SaleAmount between 90000 and 110000;
+commit transaction;
+
+
+--8.Savepoint with Partial Rollback 
+--Inside a transaction: 
+--• Update 5 employee salaries 
+--• Create a savepoint after each update 
+--• Rollback to savepoint 3 
+--• Commit the rest 
+--Check which rows were updated finally. 
+
+select empid, salary from employees where empid between 1 and 5 order by empid;
+begin transaction;
+update employees set salary = salary + 1000 where empid = 1;
+save transaction s1;
+update employees set salary = salary + 1000 where empid = 2;
+save transaction s2;
+update employees set salary = salary + 1000 where empid = 3;
+save transaction s3;
+update employees set salary = salary + 1000 where empid = 4;
+save transaction s4;
+update employees set salary = salary + 1000 where empid = 5;
+save transaction s5;
+rollback tran s3;
+commit transaction;
+select empid, salary from employees where empid between 1 and 5 order by empid;
+
+
+--9.Insert multiple product records using a single transaction. 
+--Force an error in one insert (duplicate key or null value). 
+--Ensure that no records are inserted into the table. 
+begin try
+begin transaction;
+insert into products (productid, pname, stock, categoryname, price)
+values (204, 'laptop', 50, 'electronics', 55000);
+insert into products (productid, pname, stock, categoryname, price)
+values (205, 'mouse', 200, 'electronics', 500);
+insert into products (productid, pname, stock, categoryname, price)
+values (201, 'keyboard', 100, 'electronics', 1500);
+commit transaction;
+end try
+begin catch
+rollback transaction;
+print 'error occurred, no products inserted';
+end catch;
+
+select * from products
+
+
+--10.Savepoint in TRY…CATCH 
+--Inside a long transaction: 
+--• Insert 3 orders 
+--• Savepoint after each 
+--• Force an error before the third insert 
+--Use savepoint rollback to keep first 2 inserts.
+
+begin try
+begin tran;
+insert into orders (custid, orderdate, product, price, quantity)
+values (104, getdate(), 'bag', 500, 1);
+save tran s1;
+insert into orders (custid, orderdate, product, price, quantity)
+values (105, getdate(), 'keyboard', 800, 2);
+save tran s2;
+select 10 / 0;   
+insert into orders (custid, orderdate, product, price, quantity)
+values (103, getdate(), 'mouse', 300, 1);
+save tran s3;
+commit tran;
+end try
+begin catch
+rollback tran s2;
+commit tran;
+print 'error occurred, first 2 orders inserted, third rolled back';
+end catch;
+
+select * from orders order by orderid desc
+
+
+
+
