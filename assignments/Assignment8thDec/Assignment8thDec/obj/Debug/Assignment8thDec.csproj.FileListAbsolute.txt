@@ -1,0 +1,8 @@
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\bin\Debug\Assignment8thDec.exe.config
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\bin\Debug\Assignment8thDec.exe
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\bin\Debug\Assignment8thDec.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\obj\Debug\Assignment8thDec.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\obj\Debug\Assignment8thDec.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\obj\Debug\Assignment8thDec.exe
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\obj\Debug\Assignment8thDec.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Assignment8thDec\Assignment8thDec\obj\Debug\Assignment8thDec.exe.config

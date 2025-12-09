@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment8thDec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C42E6B3-65F2-4F1C-A991-A3921F818695}|Assignment8thDec\\Assignment8thDec.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment8thDec\\assignment8thdec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C42E6B3-65F2-4F1C-A991-A3921F818695}|Assignment8thDec\\Assignment8thDec.csproj|solutionrelative:assignment8thdec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C42E6B3-65F2-4F1C-A991-A3921F818695}|Assignment8thDec\\Assignment8thDec.csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment8thdec\\assignment8thdec\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C42E6B3-65F2-4F1C-A991-A3921F818695}|Assignment8thDec\\Assignment8thDec.csproj|solutionrelative:assignment8thdec\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectedArchitecture.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment8thDec\\Assignment8thDec\\ConnectedArchitecture.cs",
+              "RelativeDocumentMoniker": "Assignment8thDec\\ConnectedArchitecture.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment8thDec\\Assignment8thDec\\ConnectedArchitecture.cs",
+              "RelativeToolTip": "Assignment8thDec\\ConnectedArchitecture.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAuwLwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:44:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment8thDec\\Assignment8thDec\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment8thDec\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment8thDec\\Assignment8thDec\\Program.cs",
+              "RelativeToolTip": "Assignment8thDec\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:44:22.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

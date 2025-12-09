@@ -1,0 +1,8 @@
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\bin\Debug\adonetdemo.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\bin\Debug\adonetdemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\bin\Debug\adonetdemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\obj\Debug\adonetdemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\obj\Debug\adonetdemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\obj\Debug\adonetdemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\obj\Debug\adonetdemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\adonetdemo\adonetdemo\obj\Debug\adonetdemo.exe.config
