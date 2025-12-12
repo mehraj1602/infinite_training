@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\assignment11thdec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|solutionrelative:assignment11thdec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\assignment11thdec\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|solutionrelative:assignment11thdec\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|c:\\users\\mehrajf\\infinite_training\\assignments\\assignment11thdec\\assignment11thdec\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|solutionrelative:assignment11thdec\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\assignment11thdec\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D59BEDB-4647-4FFA-AE29-AE30B9F83795}|Assignment11thDec\\Assignment11thDec.csproj|solutionrelative:assignment11thdec\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Products.cs",
+              "RelativeDocumentMoniker": "Assignment11thDec\\Products.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Products.cs",
+              "RelativeToolTip": "Assignment11thDec\\Products.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:52:30.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment11thDec\\Program.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Program.cs",
+              "RelativeToolTip": "Assignment11thDec\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:13:20.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Movies.cs",
+              "RelativeDocumentMoniker": "Assignment11thDec\\Movies.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Movies.cs",
+              "RelativeToolTip": "Assignment11thDec\\Movies.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwIQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:19:06.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Arrays.cs",
+              "RelativeDocumentMoniker": "Assignment11thDec\\Arrays.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\assignments\\Assignment11thDec\\Assignment11thDec\\Arrays.cs",
+              "RelativeToolTip": "Assignment11thDec\\Arrays.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:47:35.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
