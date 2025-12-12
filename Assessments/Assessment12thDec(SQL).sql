@@ -1,0 +1,63 @@
+create database EduTrack
+
+create table Students(
+    StudentId int primary key identity (1,1),
+    FullName varchar(100) NOT NULL,
+    Email varchar(100) unique,
+    Department varchar(50) NOT NULL,
+    YearOfStudy int NOT NULL);
+
+create table Courses(
+    CourseId int primary key identity(1,1),
+    CourseName varchar(100) NOT NULL,
+    Credits int NOT NULL,
+    Semester varchar(20) NOT NULL);
+
+create table Enrollments(
+    EnrollmentId int primary key identity(1,1),
+    StudentId int foreign key references Students(StudentId),
+    CourseId int foreign key references Courses(CourseId),
+    EnrollDate datetime NOT NULL,
+    Grade varchar(5) NULL);
+ 
+
+ --insertion of values
+ insert into Students values
+('fatima','fatima@mail.com','Computer Science',2),
+('Sara','sara@mail.com','Computer Science',1),
+('Ravi','ravi@mail.com','Mechanical',3),
+('Priya','priya@mail.com','Electronics',2),
+('syeda','syeda@mail.com','Computer Science',4);
+
+insert into  Courses values
+('Database management Systems',4,'Sem 3'),
+('Data Structures and algorithms',3,'Sem 2'),
+('Operating Systems',4,'Sem 4'),
+('Machine Learning',3,'Sem 5'),
+('Thermodynamics',3,'Sem 3'),
+('Networks',4,'Sem 4');
+ 
+insert into Enrollments values
+(1,1,getdate(),null),
+(2,1,getdate(),null),
+(3,2,getdate(),null),
+(1,3,getdate(),null),
+(4,4,getdate(),null),
+(5,5,getdate(),null);
+
+
+alter table Enrollments
+drop constraint [FK__Enrollmen__Stude__3B75D760]
+alter table Enrollments
+add constraint FK_Enrollment_Student
+foreign key (StudentId) REFERENCES Students(StudentId)
+on delete cascade
+
+ create procedure usp_GetCoursesBySemester
+ @semester VARCHAR(20)
+as
+begin
+select CourseId,CourseName,Credits,Semester from Courses where Semester = @semester;
+end
+
+exec usp_GetCoursesBySemester 'Sem 3';

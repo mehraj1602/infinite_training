@@ -1,0 +1,8 @@
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\bin\Debug\Assessment12thDec.exe.config
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\bin\Debug\Assessment12thDec.exe
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\bin\Debug\Assessment12thDec.pdb
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\obj\Debug\Assessment12thDec.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\obj\Debug\Assessment12thDec.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\obj\Debug\Assessment12thDec.exe
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\obj\Debug\Assessment12thDec.pdb
+C:\Users\mehrajf\Infinite_training\Assessments\Assessment12thDec\Assessment12thDec\obj\Debug\Assessment12thDec.exe.config

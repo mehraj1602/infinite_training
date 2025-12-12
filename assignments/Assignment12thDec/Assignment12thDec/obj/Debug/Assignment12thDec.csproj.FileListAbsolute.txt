@@ -1,0 +1,12 @@
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\Assignment12thDec.exe.config
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\Assignment12thDec.exe
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\Assignment12thDec.pdb
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\EntityFramework.dll
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\EntityFramework.xml
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\obj\Debug\Assignment12thDec.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\obj\Debug\Assignment12thDec.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\obj\Debug\Assignme.8D5C5CDD.Up2Date
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\obj\Debug\Assignment12thDec.exe
+C:\Users\mehrajf\Infinite_training\assignments\Assignment12thDec\Assignment12thDec\obj\Debug\Assignment12thDec.pdb

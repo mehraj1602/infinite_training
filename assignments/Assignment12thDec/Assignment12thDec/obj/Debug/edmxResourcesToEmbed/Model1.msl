@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="infinitedbModelStoreContainer" CdmEntityContainer="infinitedbEntities1">
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="infinitedbModel.Department">
+        <MappingFragment StoreEntitySet="Departments">
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="infinitedbModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="ManagerId" ColumnName="ManagerId" />
+          <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
