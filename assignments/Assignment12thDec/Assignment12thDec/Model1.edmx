@@ -5,27 +5,42 @@
     <!-- SSDL content -->
     <edmx:StorageModels>
       <Schema Namespace="infinitedbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
-        <EntityType Name="Departments">
+        <EntityType Name="Department">
           <Key>
-            <PropertyRef Name="DeptId" />
+            <PropertyRef Name="DeptID" />
           </Key>
-          <Property Name="DeptId" Type="int" Nullable="false" />
-          <Property Name="DeptName" Type="varchar" MaxLength="100" />
+          <Property Name="DeptID" Type="int" Nullable="false" />
+          <Property Name="DeptName" Type="varchar" MaxLength="50" />
         </EntityType>
-        <EntityType Name="Employees">
+        <EntityType Name="Employee">
           <Key>
-            <PropertyRef Name="EmpId" />
+            <PropertyRef Name="EmpID" />
           </Key>
-          <Property Name="EmpId" Type="int" Nullable="false" />
+          <Property Name="EmpID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="EmpName" Type="varchar" MaxLength="100" />
-          <Property Name="DeptId" Type="int" />
-          <Property Name="ManagerId" Type="int" />
-          <Property Name="JoinDate" Type="date" />
           <Property Name="Salary" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="DateOfJoin" Type="date" />
+          <Property Name="DeptID" Type="int" />
         </EntityType>
+        <Association Name="FK__Employee__DeptID__336AA144">
+          <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="DeptID" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="DeptID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <EntityContainer Name="infinitedbModelStoreContainer">
-          <EntitySet Name="Departments" EntityType="Self.Departments" Schema="dbo" store:Type="Tables" />
-          <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Employee__DeptID__336AA144" Association="Self.FK__Employee__DeptID__336AA144">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
         </EntityContainer>
       </Schema>
     </edmx:StorageModels>
@@ -34,49 +49,65 @@
       <Schema Namespace="infinitedbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="Department">
           <Key>
-            <PropertyRef Name="DeptId" />
+            <PropertyRef Name="DeptID" />
           </Key>
-          <Property Name="DeptId" Type="Int32" Nullable="false" />
-          <Property Name="DeptName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="DeptID" Type="Int32" Nullable="false" />
+          <Property Name="DeptName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Employees" Relationship="Self.FK__Employee__DeptID__336AA144" FromRole="Department" ToRole="Employee" />
         </EntityType>
         <EntityType Name="Employee">
           <Key>
-            <PropertyRef Name="EmpId" />
+            <PropertyRef Name="EmpID" />
           </Key>
-          <Property Name="EmpId" Type="Int32" Nullable="false" />
+          <Property Name="EmpID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="EmpName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
-          <Property Name="DeptId" Type="Int32" />
-          <Property Name="ManagerId" Type="Int32" />
-          <Property Name="JoinDate" Type="DateTime" Precision="0" />
           <Property Name="Salary" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="DateOfJoin" Type="DateTime" Precision="0" />
+          <Property Name="DeptID" Type="Int32" />
+          <NavigationProperty Name="Department" Relationship="Self.FK__Employee__DeptID__336AA144" FromRole="Employee" ToRole="Department" />
         </EntityType>
-        <EntityContainer Name="infinitedbEntities1" annotation:LazyLoadingEnabled="true">
+        <Association Name="FK__Employee__DeptID__336AA144">
+          <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="DeptID" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="DeptID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="infinitedbEntities2" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Departments" EntityType="Self.Department" />
           <EntitySet Name="Employees" EntityType="Self.Employee" />
+          <AssociationSet Name="FK__Employee__DeptID__336AA144" Association="Self.FK__Employee__DeptID__336AA144">
+            <End Role="Department" EntitySet="Departments" />
+            <End Role="Employee" EntitySet="Employees" />
+          </AssociationSet>
         </EntityContainer>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="infinitedbModelStoreContainer" CdmEntityContainer="infinitedbEntities1">
+        <EntityContainerMapping StorageEntityContainer="infinitedbModelStoreContainer" CdmEntityContainer="infinitedbEntities2">
           <EntitySetMapping Name="Departments">
             <EntityTypeMapping TypeName="infinitedbModel.Department">
-              <MappingFragment StoreEntitySet="Departments">
-                <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+              <MappingFragment StoreEntitySet="Department">
+                <ScalarProperty Name="DeptID" ColumnName="DeptID" />
                 <ScalarProperty Name="DeptName" ColumnName="DeptName" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
           <EntitySetMapping Name="Employees">
             <EntityTypeMapping TypeName="infinitedbModel.Employee">
-              <MappingFragment StoreEntitySet="Employees">
-                <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+              <MappingFragment StoreEntitySet="Employee">
+                <ScalarProperty Name="EmpID" ColumnName="EmpID" />
                 <ScalarProperty Name="EmpName" ColumnName="EmpName" />
-                <ScalarProperty Name="DeptId" ColumnName="DeptId" />
-                <ScalarProperty Name="ManagerId" ColumnName="ManagerId" />
-                <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
                 <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="DateOfJoin" ColumnName="DateOfJoin" />
+                <ScalarProperty Name="DeptID" ColumnName="DeptID" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

@@ -14,11 +14,12 @@ namespace Assignment12thDec
     
     public partial class Employee
     {
-        public int EmpId { get; set; }
+        public int EmpID { get; set; }
         public string EmpName { get; set; }
-        public Nullable<int> DeptId { get; set; }
-        public Nullable<int> ManagerId { get; set; }
-        public Nullable<System.DateTime> JoinDate { get; set; }
         public Nullable<decimal> Salary { get; set; }
+        public Nullable<System.DateTime> DateOfJoin { get; set; }
+        public Nullable<int> DeptID { get; set; }
+    
+        public virtual Department Department { get; set; }
     }
 }
