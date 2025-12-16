@@ -1,0 +1,12 @@
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\ModelFirstDemo.exe.config
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\ModelFirstDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\ModelFirstDemo.pdb
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\obj\Debug\ModelFirstDemo.csproj.AssemblyReference.cache
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\obj\Debug\ModelFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\obj\Debug\ModelFir.06526775.Up2Date
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\obj\Debug\ModelFirstDemo.exe
+C:\Users\mehrajf\Infinite_training\practise ques\ModelFirstDemo\ModelFirstDemo\obj\Debug\ModelFirstDemo.pdb
