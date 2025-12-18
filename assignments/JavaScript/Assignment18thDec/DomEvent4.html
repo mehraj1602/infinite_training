@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Display Name</title>
+<style>
+    body{
+background-image: url(image1.webp);
+background-repeat: no-repeat;
+background-size: cover;
+    }
+</style>
+</head>
+<body>
+    
+<h3>Display Name Multiple Times</h3>
+Name:
+<input type="text" id="name"><br><br>
+Number:
+<input type="number" id="num"><br><br>
+<button onclick="show()">Display</button>
+<div id="result"></div>
+<script>
+
+function show()
+ {
+    let name = document.getElementById("name").value;
+    let num = document.getElementById("num").value;
+    let output = "";
+    for (let i = 0; i < num; i++) 
+    {
+        output += name + "<br>";
+    }
+    document.getElementById("result").innerHTML = output;
+}
+</script>
+</body>
+</html>
+ 

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>JavaScript Assignment</title>
+</head>
+<body>
+<h2>1. Greatest of 3 Numbers</h2>
+<p id="greatest"></p>
+<h2>2. Simple Interest</h2>
+<p id="interest"></p>
+<h2>3. Difference with 13</h2>
+<p id="difference"></p>
+<h2>4. Odd or Even (0 to 15)</h2>
+<div id="oddeven"></div>
+<script>
+
+ // 1. Greatest of 3 numbers
+       let a = 10, b = 25, c = 15;
+       let greatest;
+       if (a >= b && a >= c) {
+           greatest = a;
+       } else if (b >= a && b >= c) {
+           greatest = b;
+       } else {
+           greatest = c;
+       }
+       document.getElementById("greatest").innerText =
+           "Greatest number is: " + greatest;
+
+
+
+        // 2. Simple Interest
+let principal = 5000;
+        let rate = 5;
+        let time = 2;
+        let si = (principal * rate * time) / 100;
+        document.getElementById("interest").innerText =
+
+            "Simple Interest is: " + si;
+
+
+
+
+        // 3. Difference between number and 13
+        let num = 20;
+        let result;
+        if (num > 13) 
+        {
+            result = (num - 13) * 2;
+        } else 
+        {
+            result = 13 - num;
+        }
+        document.getElementById("difference").innerText =
+            "Result is: " + result;
+
+
+
+
+
+        // 4. Odd or Even from 0 to 15
+        let output = "";
+        for (let i = 0; i <= 15; i++)
+         {
+          if (i % 2 === 0)
+           {
+                output += i + " is even<br>";
+            } else 
+            {
+                output += i + " is odd<br>";
+            }
+        }
+        document.getElementById("oddeven").innerHTML = output;
+</script>
+</body>
+</html>
+ 

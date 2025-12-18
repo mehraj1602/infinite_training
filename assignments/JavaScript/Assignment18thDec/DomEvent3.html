@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Toggle Images</title>
+</head>
+<style>
+    body{
+background-image: url(image1.webp);
+background-repeat: no-repeat;
+background-size: cover;
+    }
+</style>
+<body>
+<h3>Employee Table</h3>
+<table border="1" cellpadding="10">
+<tr>
+<th>EmployeePhoto</th>
+<th>EmpName</th>
+</tr>
+<tr>
+<td>
+<img class="empImg" src="emp1.webp">
+</td>
+<td>Joyee</td>
+</tr>
+<tr>
+<td>
+<img class="empImg" src="emp2.webp">
+</td>
+<td>John</td>
+</tr>
+</table>
+<br>
+<button onclick="toggleImages()">Hide / Show Images</button>
+<script>
+
+function toggleImages() {
+
+    let images = document.getElementsByClassName("empImg");
+    for (let i = 0; i < images.length; i++) 
+    {
+        if (images[i].style.display === "none") 
+        {
+                images[i].style.display = "block";
+        } else {
+            images[i].style.display = "none";
+        }
+    }
+}
+</script>
+</body>
+</html>
+ 

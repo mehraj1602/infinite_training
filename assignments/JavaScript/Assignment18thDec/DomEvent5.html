@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+    body{
+background-image: url(image1.webp);
+background-repeat: no-repeat;
+background-size: cover;
+    }
+    </style>
+    </head>
+<body>
+<h3>Change Image Automatically</h3>
+<img id="img" src="animal1.webp" width="700">
+<script>
+let i = 1;
+setInterval(function () {
+document.getElementById("img").src = "animal" + i + ".webp";
+    i++;
+    if (i > 5) 
+    {
+        i = 1;
+    }
+}, 1000);
+</script>
+</body>
+</html>
+ 
