@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery-3.7.1.min.js"></script>
+</head>
+<body>
+<h1>One</h1>
+<h1>Two</h1>
+<div>hey</div>
+<div>hello</div>
+<p>A</p>
+<p>B</p>
+<button id="count">Count</button>
+<script>
+$("#count").click(function () {
+   alert(
+       "H1: " + $("h1").length +
+       "\nDiv: " + $("div").length +
+       "\nParagraphs: " + $("p").length
+   );
+});
+</script>
+</body>
+</html>

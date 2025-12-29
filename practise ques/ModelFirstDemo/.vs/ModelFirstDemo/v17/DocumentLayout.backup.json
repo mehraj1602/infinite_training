@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|solutionrelative:modelfirstdemo\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\modelfirstdemo\\modelfirstdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|C:\\Users\\mehrajf\\Infinite_training\\practise ques\\ModelFirstDemo\\modelfirstdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|solutionrelative:modelfirstdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\modelfirstdemo\\modelfirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|C:\\Users\\mehrajf\\Infinite_training\\practise ques\\ModelFirstDemo\\modelfirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AACE6F8-EE14-4D25-BE24-EFFF374CC536}|ModelFirstDemo\\ModelFirstDemo.csproj|solutionrelative:modelfirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,8 +49,7 @@
               "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\ModelFirstDemo\\ModelFirstDemo\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "ModelFirstDemo\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-12-16T05:41:30.811Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-12-16T05:41:30.811Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "ModelFirstDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T05:27:56.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T05:27:56.341Z"
             }
           ]
         }

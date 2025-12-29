@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|c:\\users\\mehrajf\\infinite_training\\projects\\electricitybillproject\\electricitybillproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\app_themes\\customtheme\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\app_themes\\customtheme\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\electricitybillform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\electricitybillform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\electricitybillproject\\electricitybillform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B28A91-6A4F-4C35-93F2-A628BEA11BC3}|ElectricityBillProject\\ElectricityBillProject.csproj|solutionrelative:electricitybillproject\\electricitybillform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Styles.css",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\App_Themes\\CustomTheme\\Styles.css",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\App_Themes\\CustomTheme\\Styles.css",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\App_Themes\\CustomTheme\\Styles.css",
+              "RelativeToolTip": "ElectricityBillProject\\App_Themes\\CustomTheme\\Styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-28T10:46:46.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Site1.Master",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\Site1.Master",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Site1.Master",
+              "RelativeToolTip": "ElectricityBillProject\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T10:42:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElectricityBillForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBillForm.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\ElectricityBillForm.aspx.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBillForm.aspx.cs",
+              "RelativeToolTip": "ElectricityBillProject\\ElectricityBillForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:47:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\ElectricityBoard.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBoard.cs",
+              "RelativeToolTip": "ElectricityBillProject\\ElectricityBoard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:16:48.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\ElectricityBill.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBill.cs",
+              "RelativeToolTip": "ElectricityBillProject\\ElectricityBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:16:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\BillValidator.cs",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\BillValidator.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\BillValidator.cs",
+              "RelativeToolTip": "ElectricityBillProject\\BillValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:15:40.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\DBHandler.cs",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\DBHandler.cs",
+              "RelativeToolTip": "ElectricityBillProject\\DBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:14:26.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectricityBillForm.aspx",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBillForm.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\ElectricityBillForm.aspx",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\ElectricityBillForm.aspx",
+              "RelativeToolTip": "ElectricityBillProject\\ElectricityBillForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T07:46:21.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Login.aspx.cs",
+              "RelativeToolTip": "ElectricityBillProject\\Login.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:40:32.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Login.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\Login.aspx",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Login.aspx",
+              "RelativeToolTip": "ElectricityBillProject\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T07:38:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Web.config",
+              "RelativeDocumentMoniker": "ElectricityBillProject\\Web.config",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\Projects\\ElectricityBillProject\\ElectricityBillProject\\Web.config",
+              "RelativeToolTip": "ElectricityBillProject\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-26T06:57:32.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
