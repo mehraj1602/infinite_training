@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+using System.Text;
+
+namespace Caching_prj
+{
+    public partial class CacheForm : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                GetProductsByName("All");
+                Response.Cache.SetExpires(DateTime.Now.AddSeconds(30)); //duration
+                Response.Cache.VaryByParams["None"] = true; //varybyparam
+                Response.Cache.SetCacheability(HttpCacheability.ServerAndPrivate); //location
+            }
+
+            lblmsg.Text = "This Page is cached at : " + DateTime.Now.ToString();
+        }
+
+        private void GetProductsByName(string productname)
+        {
+            SqlConnection con = new SqlConnection("Data Source=ICS-LT-BJ43YS3; initial catalog=infinitedb;" +
+                "user=sa;pwd=Infinite@2025;");
+            SqlDataAdapter da = new SqlDataAdapter("spGetProductByName", con);
+            da.SelectCommand.CommandType = CommandType.StoredProcedure;
+            SqlParameter param1 = new SqlParameter();
+            param1.ParameterName = "@Productname";
+            param1.Value = productname;
+
+            da.SelectCommand.Parameters.Add(param1);
+
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+
+            GridView1.DataSource = ds;
+            GridView1.DataBind();
+
+        }
+        protected void DDL_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            GetProductsByName(DDL.SelectedValue);
+
+        }
+    }
+
+}

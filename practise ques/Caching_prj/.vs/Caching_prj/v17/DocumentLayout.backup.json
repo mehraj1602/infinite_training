@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\Caching_prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6456B-E5FB-44B2-9A78-858969E6F255}|Caching_prj\\Caching_prj.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\caching_prj\\caching_prj\\cacheform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63E6456B-E5FB-44B2-9A78-858969E6F255}|Caching_prj\\Caching_prj.csproj|solutionrelative:caching_prj\\cacheform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6456B-E5FB-44B2-9A78-858969E6F255}|Caching_prj\\Caching_prj.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\caching_prj\\caching_prj\\cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6456B-E5FB-44B2-9A78-858969E6F255}|Caching_prj\\Caching_prj.csproj|solutionrelative:caching_prj\\cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\Caching_prj\\Caching_prj\\CacheForm.aspx.cs",
+              "RelativeDocumentMoniker": "Caching_prj\\CacheForm.aspx.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\Caching_prj\\Caching_prj\\CacheForm.aspx.cs",
+              "RelativeToolTip": "Caching_prj\\CacheForm.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:16:00.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheForm.aspx",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\Caching_prj\\Caching_prj\\CacheForm.aspx",
+              "RelativeDocumentMoniker": "Caching_prj\\CacheForm.aspx",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\Caching_prj\\Caching_prj\\CacheForm.aspx",
+              "RelativeToolTip": "Caching_prj\\CacheForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T07:14:49.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
