@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<input id="name" placeholder="Type something and Enter">
+<script src="jquery-3.7.1.min.js"></script>
+<script>
+$("#name").on("change", function ()
+ {
+  $("body").append("<p> Field is changed</p>");
+  });
+</script>
+</body>
+</html>

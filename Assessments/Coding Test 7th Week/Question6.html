@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<ul>
+  <li>CSHARP</li>
+  <li>SQL</li>
+  <li>ADO</li>
+</ul>
+<p id="result"></p>
+<script src="jquery-3.7.1.min.js"></script>
+<script>
+$("li").on("click", function () {
+  let selected = $(this).text();
+  $("#result").text("The Item You Selected Is : " + selected);
+});
+</script>
+</body>
+</html>
