@@ -69,5 +69,37 @@ namespace ElectricityBillProject
             gvBills.DataSource = board.Generate_N_BillDetails(n);
             gvBills.DataBind();
         }
+
+        protected void txtNo_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                // Validate format using ElectricityBill model
+                ElectricityBill bill = new ElectricityBill();
+                bill.ConsumerNumber = txtNo.Text.Trim(); // validates EB + 5 digits
+
+                string name = board.GetConsumerName(bill.ConsumerNumber);
+
+                if (name != "")
+                {
+                    txtName.Text = name;
+                    txtName.ReadOnly = true;
+                    lblOutput.Text = "";
+                }
+                else
+                {
+                    txtName.Text = "";
+                    lblOutput.Text = "Consumer number not found";
+                    txtNo.Focus();
+                }
+            }
+            catch (FormatException ex)
+            {
+                txtName.Text = "";
+                lblOutput.Text = ex.Message;
+                txtNo.Focus();
+            }
+        }
+
     }
 }

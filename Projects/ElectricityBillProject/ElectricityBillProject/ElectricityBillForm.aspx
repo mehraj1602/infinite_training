@@ -1,39 +1,91 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site1.master" AutoEventWireup="true" CodeBehind="ElectricityBillForm.aspx.cs" Inherits="ElectricityBillProject.ElectricityBillForm" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Site1.master" AutoEventWireup="true"
+    CodeBehind="ElectricityBillForm.aspx.cs"
+    Inherits="ElectricityBillProject.ElectricityBillForm" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-        <div>
-            Number of Bills:
-<asp:TextBox ID="txtCount" runat="server" />
-<asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Number of Bills cannot be blank" ControlToValidate="txtCount" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
-<asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="txtCount" ValidationExpression="^\d+$" ErrorMessage="Number of Bills must be numeric" ForeColor="Red" ValidationGroup="elecbill">*</asp:RegularExpressionValidator>
-<br/><br/>
-Consumer Number:
-<asp:TextBox ID="txtNo" runat="server" />
-<asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Consumer Number cannot be blank" ControlToValidate="txtNo" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
-<br/><br/>
-Consumer Name:
-<asp:TextBox ID="txtName" runat="server" />
-<asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Consumer Name cannot be blank" ControlToValidate="txtName" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
-<asp:RegularExpressionValidator ID="RegularExpressionValidator3" runat="server" ControlToValidate="txtName" ValidationExpression="^[A-Za-z ]{3,}$" ErrorMessage="Consumer Name must contain only letters and minimum 3 characters" ForeColor="Red" ValidationGroup="elecbill">*</asp:RegularExpressionValidator>
-<br/><br/>
-Units Consumed:
-<asp:TextBox ID="txtUnits" runat="server" />
-<asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ErrorMessage="Units Consumed cannot be blank" ControlToValidate="txtUnits" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
-<br/><br/>
-<asp:Button ID="btnAdd" runat="server" Text="Add Bill" OnClick="btnAdd_Click" ValidationGroup="elecbill" /><br/>
 
-<asp:Label ID="lblOutput" runat="server" /><br/>
-<asp:ValidationSummary ID="ValidationSummary1" runat="server" ForeColor="Red" ValidationGroup="elecbill" />
+<link href="~/Content/electricity.css" rel="stylesheet" />
 
+<div class="page-wrapper">
 
-Last N Bills to Retrieve:
-<asp:TextBox ID="txtLast" runat="server" />
-<asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ErrorMessage="Please enter Last N Bills to Retrieve" ControlToValidate="txtLast" ForeColor="Red" ValidationGroup="elecbilllast" >*</asp:RequiredFieldValidator>
-<asp:RegularExpressionValidator ID="RegularExpressionValidator5" runat="server" ControlToValidate="txtLast" ValidationExpression="^\d+$" ErrorMessage="Last N Bills must be numeric" ForeColor="Red" ValidationGroup="elecbilllast">*</asp:RegularExpressionValidator>
-<br/><br/>
-<asp:Button ID="btnShow" runat="server" Text="Show Bills" OnClick="btnShow_Click" ValidationGroup="elecbilllast"/><br/>
-<asp:ValidationSummary ID="ValidationSummary2" runat="server" ForeColor="Red" ValidationGroup="elecbilllast" />
+ 
+    <div class="app-card">
 
-<asp:GridView ID="gvBills" runat="server" />
+        <h4 class="section-heading"> Electricity Bill Entry</h4>
+        <p class="subtitle">Enter consumer details and add bills to the list</p>
+
+        <div class="row">
+
+            <div class="col">
+                <label class="form-label">Number of Bills</label>
+                <asp:TextBox ID="txtCount" CssClass="form-control" runat="server" />
+                <asp:RequiredFieldValidator ControlToValidate="txtCount" runat="server"
+                    ErrorMessage="Required" ForeColor="Red" ValidationGroup="elecbill" />
+            </div>
+
+            <div class="col">
+                <label class="form-label">Consumer Number</label>
+                <asp:TextBox ID="txtNo" CssClass="form-control" runat="server" AutoPostBack="true" OnTextChanged="txtNo_TextChanged"/>
+                <asp:RequiredFieldValidator ControlToValidate="txtNo" runat="server"
+                    ErrorMessage="Required" ForeColor="Red" ValidationGroup="elecbill" />
+            </div>
+
+            <div class="col">
+                <label class="form-label">Consumer Name</label>
+                <asp:TextBox ID="txtName" CssClass="form-control" runat="server" />
+                <asp:RequiredFieldValidator ControlToValidate="txtName" runat="server"
+                    ErrorMessage="Required" ForeColor="Red" ValidationGroup="elecbill" />
+            </div>
+
+            <div class="col">
+                <label class="form-label">Units Consumed</label>
+                <asp:TextBox ID="txtUnits" CssClass="form-control" runat="server" />
+                <asp:RequiredFieldValidator ControlToValidate="txtUnits" runat="server"
+                    ErrorMessage="Required" ForeColor="Red" ValidationGroup="elecbill" />
+            </div>
+
         </div>
+
+        <div class="button-row">
+            <asp:Button ID="btnAdd" runat="server" Text=" Add Bill"
+                CssClass="btn primary" ValidationGroup="elecbill" OnClick="btnAdd_Click" />
+
+            <asp:Label ID="lblOutput" runat="server" CssClass="status-text" />
+        </div>
+
+        <asp:ValidationSummary ID="ValidationSummary1" runat="server"
+            CssClass="validation-text" ValidationGroup="elecbill" />
+    </div>
+
+
+  
+    <div class="app-card">
+
+        <h4 class="section-heading"> Retrieve Previous Bills</h4>
+        <p class="subtitle">View last N recently added bills</p>
+
+        <div class="row">
+
+            <div class="col">
+                <label class="form-label">Last N Bills</label>
+                <asp:TextBox ID="txtLast" CssClass="form-control" runat="server" />
+                <asp:RequiredFieldValidator ControlToValidate="txtLast" runat="server"
+                    ErrorMessage="Required" ForeColor="Red" ValidationGroup="elecbilllast" />
+            </div>
+
+        </div>
+
+        <div class="button-row">
+            <asp:Button ID="btnShow" runat="server" Text="Show Bills"
+                CssClass="btn secondary" ValidationGroup="elecbilllast" OnClick="btnShow_Click" />
+        </div>
+
+        <asp:ValidationSummary ID="ValidationSummary2" runat="server"
+            CssClass="validation-text" ValidationGroup="elecbilllast" />
+
+        <asp:GridView ID="gvBills" runat="server" CssClass="styled-grid" />
+    </div>
+
+</div>
+
 </asp:Content>

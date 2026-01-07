@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
@@ -85,6 +86,20 @@ namespace ElectricityBillProject
                 }
             }
             return list;
+        }
+        public string GetConsumerName(string consumerNumber)
+        {
+            using (SqlConnection con = DBHandler.GetConnection())
+            {
+                SqlCommand cmd = new SqlCommand(
+                    "select consumer_name from ElectricityBill where consumer_number = @cno", con);
+
+                cmd.Parameters.AddWithValue("@cno", consumerNumber);
+
+                object result = cmd.ExecuteScalar();
+
+                return result == null ? "" : result.ToString();
+            }
         }
     }
 }
