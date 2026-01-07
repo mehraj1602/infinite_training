@@ -1,7 +1,0 @@
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\bin\Debug\LinqdDemo.exe.config
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\bin\Debug\LinqdDemo.exe
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\bin\Debug\LinqdDemo.pdb
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\obj\Debug\LinqdDemo.csproj.AssemblyReference.cache
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\obj\Debug\LinqdDemo.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\obj\Debug\LinqdDemo.exe
-C:\Users\mehrajf\Infinite_training\practise ques\LinqdDemo\LinqdDemo\obj\Debug\LinqdDemo.pdb

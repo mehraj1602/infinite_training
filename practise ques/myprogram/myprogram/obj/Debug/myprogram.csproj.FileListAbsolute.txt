@@ -1,8 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\bin\Debug\myprogram.exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\bin\Debug\myprogram.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\bin\Debug\myprogram.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\obj\Debug\myprogram.csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\obj\Debug\myprogram.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\obj\Debug\myprogram.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\obj\Debug\myprogram.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\myprogram\myprogram\obj\Debug\myprogram.exe.config

@@ -1,7 +1,0 @@
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\bin\Debug\DipDemo.exe.config
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\bin\Debug\DipDemo.exe
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\bin\Debug\DipDemo.pdb
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\obj\Debug\DipDemo.csproj.AssemblyReference.cache
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\obj\Debug\DipDemo.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\obj\Debug\DipDemo.exe
-C:\Users\mehrajf\Infinite_training\practise ques\DipDemo\DipDemo\obj\Debug\DipDemo.pdb

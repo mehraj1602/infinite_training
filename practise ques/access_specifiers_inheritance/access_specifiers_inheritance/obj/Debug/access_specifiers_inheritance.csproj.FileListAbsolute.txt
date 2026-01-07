@@ -1,7 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\bin\Debug\access_specifiers_inheritance.exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\bin\Debug\access_specifiers_inheritance.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\bin\Debug\access_specifiers_inheritance.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\obj\Debug\access_specifiers_inheritance.csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\obj\Debug\access_specifiers_inheritance.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\obj\Debug\access_specifiers_inheritance.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\access_specifiers_inheritance\access_specifiers_inheritance\obj\Debug\access_specifiers_inheritance.pdb

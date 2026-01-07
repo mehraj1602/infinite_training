@@ -1,8 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\obj\Debug\OverridingDemo.csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\obj\Debug\OverridingDemo.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\bin\Debug\OverridingDemo.exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\bin\Debug\OverridingDemo.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\bin\Debug\OverridingDemo.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\obj\Debug\OverridingDemo.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\obj\Debug\OverridingDemo.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\OverridingDemo\OverridingDemo\obj\Debug\OverridingDemo.exe.config

@@ -1,8 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\bin\Debug\CodingTest1(17thNov).exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\bin\Debug\CodingTest1(17thNov).exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\bin\Debug\CodingTest1(17thNov).pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\obj\Debug\CodingTest1(17thNov).csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\obj\Debug\CodingTest1(17thNov).csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\obj\Debug\CodingTest1(17thNov).exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\obj\Debug\CodingTest1(17thNov).pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\CodingTest1(17thNov)\CodingTest1(17thNov)\obj\Debug\CodingTest1(17thNov).exe.config

@@ -1,6 +1,0 @@
-C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\RemotingTrn\bin\Debug\RemotingTrn.dll
-C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\RemotingTrn\bin\Debug\RemotingTrn.pdb
-C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.csproj.AssemblyReference.cache
-C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.dll
-C:\Users\mehrajf\Infinite_training\practise ques\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.pdb

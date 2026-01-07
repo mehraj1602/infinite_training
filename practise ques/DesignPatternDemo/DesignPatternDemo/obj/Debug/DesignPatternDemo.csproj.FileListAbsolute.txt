@@ -1,8 +1,0 @@
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\bin\Debug\DesignPatternDemo.exe.config
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\bin\Debug\DesignPatternDemo.exe
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\bin\Debug\DesignPatternDemo.pdb
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\obj\Debug\DesignPatternDemo.csproj.AssemblyReference.cache
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\obj\Debug\DesignPatternDemo.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\obj\Debug\DesignPatternDemo.exe
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\obj\Debug\DesignPatternDemo.pdb
-C:\Users\mehrajf\Infinite_training\practise ques\DesignPatternDemo\DesignPatternDemo\obj\Debug\DesignPatternDemo.exe.config

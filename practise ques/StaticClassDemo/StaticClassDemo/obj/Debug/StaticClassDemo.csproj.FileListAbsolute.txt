@@ -1,8 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe.config

@@ -1,8 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\bin\Debug\functiontypes.exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\bin\Debug\functiontypes.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\bin\Debug\functiontypes.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\obj\Debug\functiontypes.csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\obj\Debug\functiontypes.csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\obj\Debug\functiontypes.exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\obj\Debug\functiontypes.pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\functiontypes\functiontypes\obj\Debug\functiontypes.exe.config

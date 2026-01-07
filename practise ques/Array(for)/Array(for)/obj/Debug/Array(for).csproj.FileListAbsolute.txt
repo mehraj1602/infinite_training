@@ -1,7 +1,0 @@
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\bin\Debug\Array(for).exe.config
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\bin\Debug\Array(for).exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\bin\Debug\Array(for).pdb
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\obj\Debug\Array(for).csproj.AssemblyReference.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\obj\Debug\Array(for).csproj.CoreCompileInputs.cache
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\obj\Debug\Array(for).exe
-C:\Users\mehrajf\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\vs prog\Array(for)\Array(for)\obj\Debug\Array(for).pdb
