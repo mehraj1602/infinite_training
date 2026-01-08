@@ -1,0 +1,18 @@
+﻿@model Assignment1.Models.Contact
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Contact</h2>
+<form method="post">
+    <label>First Name</label>
+    @Html.TextBoxFor(m => m.FirstName)
+
+    <label>Last Name</label>
+    @Html.TextBoxFor(m => m.LastName)
+
+    <label>Email</label>
+    @Html.TextBoxFor(m => m.Email)
+
+    <button type="submit">Save</button>
+</form>

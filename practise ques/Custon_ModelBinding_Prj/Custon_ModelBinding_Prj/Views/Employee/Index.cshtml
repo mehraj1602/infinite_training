@@ -1,0 +1,20 @@
+﻿@model Custon_ModelBinding_Prj.Models.EmployeeModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<hr />
+<h2>@ViewBag.ctitle</h2>
+<br />
+<h2>@ViewBag.efn</h2>
+
+<form id="frmdefault" method="post">
+    Title            :   <input type="text" id="title" name="title" />
+    First Name       :   <input type="text" id="firstname" name="firstname" />
+    Middle Name      :   <input type="text" id="middlename" name="middlename" />
+    Last Name        :   <input type="text" id="lastname" name="lastname" />
+    <br />
+    <input type="submit" id="submit" value="Submit" />
+</form>
+
