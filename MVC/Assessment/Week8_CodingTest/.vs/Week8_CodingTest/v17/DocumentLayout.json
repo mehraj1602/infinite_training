@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1906DDE5-8BE4-4ACD-B266-DF425209CBCD}|Week8_CodingTest\\Week8_CodingTest.csproj|c:\\users\\mehrajf\\infinite_training\\mvc\\assessment\\week8_codingtest\\week8_codingtest\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1906DDE5-8BE4-4ACD-B266-DF425209CBCD}|Week8_CodingTest\\Week8_CodingTest.csproj|solutionrelative:week8_codingtest\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1906DDE5-8BE4-4ACD-B266-DF425209CBCD}|Week8_CodingTest\\Week8_CodingTest.csproj|c:\\users\\mehrajf\\infinite_training\\mvc\\assessment\\week8_codingtest\\week8_codingtest\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1906DDE5-8BE4-4ACD-B266-DF425209CBCD}|Week8_CodingTest\\Week8_CodingTest.csproj|solutionrelative:week8_codingtest\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1906DDE5-8BE4-4ACD-B266-DF425209CBCD}|Week8_CodingTest\\Week8_CodingTest.csproj|c:\\users\\mehrajf\\infinite_training\\mvc\\assessment\\week8_codingtest\\week8_codingtest\\views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1906DDE5-8BE4-4ACD-B266-DF425209CBCD}|Week8_CodingTest\\Week8_CodingTest.csproj|solutionrelative:week8_codingtest\\views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\Week8_CodingTest\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "Week8_CodingTest\\Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\Week8_CodingTest\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "Week8_CodingTest\\Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:34:30.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GermanCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\Week8_CodingTest\\Views\\Code\\GermanCustomers.cshtml",
+              "RelativeDocumentMoniker": "Week8_CodingTest\\Views\\Code\\GermanCustomers.cshtml",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\Week8_CodingTest\\Views\\Code\\GermanCustomers.cshtml",
+              "RelativeToolTip": "Week8_CodingTest\\Views\\Code\\GermanCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:30:06.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\Week8_CodingTest\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Week8_CodingTest\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\MVC\\Assessment\\Week8_CodingTest\\Week8_CodingTest\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Week8_CodingTest\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:22:25.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

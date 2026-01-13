@@ -1,0 +1,14 @@
+﻿@model Week8_CodingTest_Part2.Models.Movies
+
+
+<h2>Delete Movie</h2>
+
+<p>Are you sure you want to delete this movie?</p>
+
+<p><b>@Model.Moviename</b> by @Model.DirectorName</p>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Mid)
+    <input type="submit" value="Delete" />
+}

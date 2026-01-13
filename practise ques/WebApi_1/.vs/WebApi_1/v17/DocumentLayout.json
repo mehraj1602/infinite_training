@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\WebApi_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1274EDFA-521B-4826-9E50-88DC0D6D9D11}|WebApi_1\\WebApi_1.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\webapi_1\\webapi_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274EDFA-521B-4826-9E50-88DC0D6D9D11}|WebApi_1\\WebApi_1.csproj|solutionrelative:webapi_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1274EDFA-521B-4826-9E50-88DC0D6D9D11}|WebApi_1\\WebApi_1.csproj|c:\\users\\mehrajf\\infinite_training\\practise ques\\webapi_1\\webapi_1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274EDFA-521B-4826-9E50-88DC0D6D9D11}|WebApi_1\\WebApi_1.csproj|solutionrelative:webapi_1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\WebApi_1\\WebApi_1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "WebApi_1\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\WebApi_1\\WebApi_1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "WebApi_1\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:27:21.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\WebApi_1\\WebApi_1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApi_1\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\practise ques\\WebApi_1\\WebApi_1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApi_1\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:54:02.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

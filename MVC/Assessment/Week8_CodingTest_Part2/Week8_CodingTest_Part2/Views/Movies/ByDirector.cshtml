@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Week8_CodingTest_Part2.Models.Movies>
+
+<h2>Movies by Director</h2>
+
+@foreach (var m in Model)
+{
+    <p>@m.Moviename (@m.DirectorName)</p>
+}
