@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehrajf\\Infinite_training\\WEB API\\Assessment\\Week9_codingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D3D6E6-9FE7-4499-B7B5-233E2C5C92D1}|Week9_codingTest\\Week9_codingTest.csproj|c:\\users\\mehrajf\\infinite_training\\web api\\assessment\\week9_codingtest\\week9_codingtest\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D3D6E6-9FE7-4499-B7B5-233E2C5C92D1}|Week9_codingTest\\Week9_codingTest.csproj|solutionrelative:week9_codingtest\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D3D6E6-9FE7-4499-B7B5-233E2C5C92D1}|Week9_codingTest\\Week9_codingTest.csproj|c:\\users\\mehrajf\\infinite_training\\web api\\assessment\\week9_codingtest\\week9_codingtest\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D3D6E6-9FE7-4499-B7B5-233E2C5C92D1}|Week9_codingTest\\Week9_codingTest.csproj|solutionrelative:week9_codingtest\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\WEB API\\Assessment\\Week9_codingTest\\Week9_codingTest\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Week9_codingTest\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\WEB API\\Assessment\\Week9_codingTest\\Week9_codingTest\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Week9_codingTest\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:42:00.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\mehrajf\\Infinite_training\\WEB API\\Assessment\\Week9_codingTest\\Week9_codingTest\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Week9_codingTest\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\mehrajf\\Infinite_training\\WEB API\\Assessment\\Week9_codingTest\\Week9_codingTest\\Models\\Country.cs",
+              "RelativeToolTip": "Week9_codingTest\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:39:41.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
